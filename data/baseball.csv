@@ -1,0 +1,323 @@
+Name,Team,nAtBat,nHits,nHome,nRuns,nRBI,League,Division,Position,nError
+"Allanson, Andy",Cleveland,293,66,1,30,29,American,East,C,20
+"Ashby, Alan",Houston,315,81,7,24,38,National,West,C,10
+"Davis, Alan",Seattle,479,130,18,66,72,American,West,1B,14
+"Dawson, Andre",Montreal,496,141,20,65,78,National,East,RF,3
+"Galarraga, Andres",Montreal,321,87,10,39,42,National,East,1B,4
+"Griffin, Alfredo",Oakland,594,169,4,74,51,American,West,SS,25
+"Newman, Al",Montreal,185,37,1,23,8,National,East,2B,7
+"Salazar, Argenis",Kansas City,298,73,0,24,24,American,West,SS,9
+"Thomas, Andres",Atlanta,323,81,6,26,32,National,West,SS,19
+"Thornton, Andre",Cleveland,401,92,17,49,66,American,East,DH,0
+"Trammell, Alan",Detroit,574,159,21,107,75,American,East,SS,22
+"Trevino, Alex",Los Angeles,202,53,4,31,26,National,West,C,11
+"Van Slyke, Andy",St Louis,418,113,13,48,61,National,East,RF,7
+"Wiggins, Alan",Baltimore,239,60,0,30,11,American,East,2B,6
+"Almon, Bill",Pittsburgh,196,43,7,29,27,National,East,UT,8
+"Beane, Billy",Minneapolis,183,39,3,20,15,American,West,OF,0
+"Bell, Buddy",Cincinnati,568,158,20,89,75,National,West,3B,10
+"Biancalana, Buddy",Kansas City,190,46,2,24,8,American,West,SS,16
+"Bochte, Bruce",Oakland,407,104,6,57,43,American,West,1B,9
+"Bochy, Bruce",San Diego,127,32,8,16,22,National,West,C,2
+"Bonds, Barry",Pittsburgh,413,92,16,72,48,National,East,CF,5
+"Bonilla, Bobby",Chicago,426,109,3,55,43,American,West,O1,2
+"Boone, Bob",California,442,98,7,48,49,American,West,C,11
+"Brenly, Bob",San Francisco,472,116,16,60,62,National,West,C,3
+"Buckner, Bill",Boston,629,168,18,73,102,American,East,1B,14
+"Butler, Brett",Cleveland,587,163,4,92,51,American,East,CF,3
+"Dernier, Bob",Chicago,324,73,4,32,18,National,East,CF,3
+"Diaz, Bo",Cincinnati,474,129,10,50,56,National,West,C,13
+"Doran, Bill",Houston,550,152,6,92,37,National,West,2B,16
+"Downing, Brian",California,513,137,20,90,95,American,West,LF,3
+"Grich, Bobby",California,313,84,9,42,30,American,West,2B,7
+"Hatcher, Billy",Houston,419,108,6,55,36,National,West,CF,4
+"Horner, Bob",Atlanta,517,141,27,70,87,National,West,1B,8
+"Jacoby, Brook",Cleveland,583,168,17,83,80,American,East,3B,25
+"Kearney, Bob",Seattle,204,49,6,23,25,American,West,C,5
+"Madlock, Bill",Los Angeles,379,106,10,38,60,National,West,3B,24
+"Meacham, Bobby",New York,161,36,0,19,10,American,East,SS,12
+"Melvin, Bob",San Francisco,268,60,5,24,25,National,West,C,6
+"Oglivie, Ben",Milwaukee,346,98,5,31,53,American,East,DH,0
+"Roberts, Bip",San Diego,241,61,1,34,12,National,West,2B,10
+"Robidoux, Billy Jo",Milwaukee,181,41,1,15,21,American,East,1B,5
+"Russell, Bill",Los Angeles,216,54,0,21,18,National,West,UT,5
+"Sample, Billy",Atlanta,200,57,6,23,14,National,West,OF,1
+"Schroeder, Bill",Milwaukee,217,46,7,32,19,American,East,UT,1
+"Wynegar, Butch",New York,194,40,7,19,29,American,East,C,2
+"Bando, Chris",Cleveland,254,68,2,28,26,American,East,C,4
+"Brown, Chris",San Francisco,416,132,7,57,49,National,West,3B,18
+"Castillo, Carmen",Cleveland,205,57,8,34,32,American,East,OD,4
+"Cooper, Cecil",Milwaukee,542,140,12,46,75,American,East,1B,9
+"Davis, Chili",San Francisco,526,146,13,71,70,National,West,RF,9
+"Fisk, Carlton",Chicago,457,101,14,42,63,American,West,C,4
+"Ford, Curt",St Louis,214,53,2,30,29,National,East,OF,3
+"Johnson, Cliff",Toronto,336,84,15,48,55,American,East,DH,0
+"Lansford, Carney",Oakland,591,168,19,80,72,American,West,3B,4
+"Lemon, Chet",Detroit,403,101,12,45,53,American,East,CF,5
+"Maldonado, Candy",San Francisco,405,102,18,49,85,National,West,OF,3
+"Martinez, Carmelo",San Diego,244,58,9,28,25,National,West,O1,2
+"Moore, Charlie",Milwaukee,235,61,3,24,39,American,East,C,4
+"Reynolds, Craig",Houston,313,78,6,32,41,National,West,SS,7
+"Ripken, Cal",Baltimore,627,177,25,98,81,American,East,SS,13
+"Snyder, Cory",Cleveland,416,113,24,58,69,American,East,OS,10
+"Speier, Chris",Chicago,155,44,6,21,23,National,East,3S,3
+"Wilkerson, Curt",Texas,236,56,0,27,15,American,West,2S,13
+"Anderson, Dave",Los Angeles,216,53,1,31,15,National,West,3S,11
+"Baker, Dusty",Oakland,242,58,4,25,19,American,West,OF,0
+"Baylor, Don",Boston,585,139,31,93,94,American,East,DH,0
+"Bilardello, Dann",Montreal,191,37,4,12,17,National,East,C,8
+"Boston, Daryl",Chicago,199,53,5,29,22,American,West,CF,5
+"Coles, Darnell",Detroit,521,142,20,67,86,American,East,3B,23
+"Collins, Dave",Detroit,419,113,1,44,27,American,East,LF,1
+"Concepcion, Dave",Cincinnati,311,81,3,42,30,National,West,UT,10
+"Daulton, Darren",Philadelphia,138,31,8,18,21,National,East,C,4
+"DeCinces, Doug",California,512,131,26,69,96,American,West,3B,12
+"Evans, Darrell",Detroit,507,122,29,78,85,American,East,1B,2
+"Evans, Dwight",Boston,529,137,26,86,97,American,East,RF,5
+"Garcia, Damaso",Toronto,424,119,6,57,46,American,East,2B,8
+"Gladden, Dan",San Francisco,351,97,4,55,29,National,West,CF,3
+"Heep, Danny",New York,195,55,5,24,33,National,East,OF,1
+"Henderson, Dave",Seattle,388,103,15,59,47,American,West,OF,4
+"Hill, Donnie",Oakland,339,96,4,37,29,American,West,23,9
+"Kingman, Dave",Oakland,561,118,35,70,94,American,West,DH,8
+"Lopes, Davey",Chicago,255,70,7,49,35,National,East,3O,8
+"Mattingly, Don",New York,677,238,31,117,113,American,East,1B,6
+"Motley, Darryl",Kansas City,227,46,7,23,20,American,West,RF,2
+"Murphy, Dale",Atlanta,614,163,29,89,83,National,West,CF,6
+"Murphy, Dwayne",Oakland,329,83,9,50,39,American,West,CF,2
+"Parker, Dave",Cincinnati,637,174,31,89,116,National,West,RF,9
+"Pasqua, Dan",New York,280,82,16,44,45,American,East,LF,2
+"Porter, Darrell",Texas,155,41,12,21,29,American,West,CD,1
+"Schofield, Dick",California,458,114,13,67,57,American,West,SS,18
+"Slaught, Don",Texas,314,83,13,39,46,American,West,C,4
+"Strawberry, Darryl",New York,475,123,27,76,93,National,East,RF,6
+"Sveum, Dale",Milwaukee,317,78,7,35,35,American,East,3B,26
+"Tartabull, Danny",Seattle,511,138,25,76,96,American,West,RF,8
+"Thon, Dickie",Houston,278,69,3,24,21,National,West,SS,10
+"Walling, Denny",Houston,382,119,13,54,58,National,West,3B,9
+"Winfield, Dave",New York,565,148,24,90,104,American,East,RF,5
+"Cabell, Enos",Los Angeles,277,71,2,27,29,National,West,1B,5
+"Davis, Eric",Cincinnati,415,115,27,97,71,National,West,LF,7
+"Milner, Eddie",Cincinnati,424,110,15,70,47,National,West,CF,3
+"Murray, Eddie",Baltimore,495,151,17,61,84,American,East,1B,13
+"Riles, Ernest",Milwaukee,524,132,9,69,47,American,East,SS,20
+"Romero, Ed",Boston,233,49,2,41,23,American,East,SS,10
+"Whitt, Ernie",Toronto,395,106,16,48,56,American,East,C,7
+"Lynn, Fred",Baltimore,397,114,23,67,67,American,East,CF,4
+"Rayford, Floyd",Baltimore,210,37,8,15,19,American,East,3B,15
+"Stubbs, Franklin",Los Angeles,420,95,23,55,58,National,West,LF,7
+"White, Frank",Kansas City,566,154,22,76,84,American,West,2B,10
+"Bell, George",Toronto,641,198,31,101,108,American,East,LF,10
+"Braggs, Glenn",Milwaukee,215,51,4,19,18,American,East,LF,12
+"Brett, George",Kansas City,441,128,16,70,73,American,West,3B,16
+"Brock, Greg",Los Angeles,325,76,16,33,52,National,West,1B,3
+"Carter, Gary",New York,490,125,24,81,105,National,East,C,8
+"Davis, Glenn",Houston,574,152,31,91,101,National,West,1B,11
+"Foster, George",New York,284,64,14,30,42,National,East,LF,4
+"Gaetti, Gary",Minneapolis,596,171,34,91,108,American,West,3B,21
+"Gagne, Greg",Minneapolis,472,118,12,63,54,American,West,SS,26
+"Hendrick, George",California,283,77,14,45,47,American,West,OF,5
+"Hubbard, Glenn",Atlanta,408,94,4,42,36,National,West,2B,19
+"Iorg, Garth",Toronto,327,85,3,30,44,American,East,32,12
+"Matthews, Gary",Chicago,370,96,21,49,46,National,East,LF,9
+"Nettles, Graig",San Diego,354,77,16,36,55,National,West,3B,16
+"Pettis, Gary",California,539,139,5,93,58,American,West,CF,7
+"Redus, Gary",Philadelphia,340,84,11,62,33,National,East,LF,4
+"Templeton, Garry",San Diego,510,126,2,42,44,National,West,SS,20
+"Thomas, Gorman",Seattle,315,59,16,45,36,American,West,DH,0
+"Walker, Greg",Chicago,282,78,13,37,51,American,West,1B,5
+"Ward, Gary",Texas,380,120,5,54,51,American,West,LF,1
+"Wilson, Glenn",Philadelphia,584,158,15,70,84,National,East,RF,4
+"Baines, Harold",Chicago,570,169,21,72,88,American,West,RF,5
+"Brooks, Hubie",Montreal,306,104,14,50,58,National,East,SS,15
+"Johnson, Howard",New York,220,54,10,30,39,National,East,3S,20
+"McRae, Hal",Kansas City,278,70,7,22,37,American,West,DH,0
+"Reynolds, Harold",Seattle,445,99,1,46,24,American,West,2B,16
+"Spilman, Harry",San Francisco,143,39,5,18,30,National,West,1B,1
+"Winningham, Herm",Montreal,185,40,4,23,11,National,East,OF,2
+"Barfield, Jesse",Toronto,589,170,40,107,108,American,East,RF,3
+"Beniquez, Juan",Baltimore,343,103,6,48,36,American,East,UT,13
+"Bonilla, Juan",Baltimore,284,69,1,33,18,American,East,2B,5
+"Cangelosi, John",Chicago,438,103,2,65,32,American,West,LF,9
+"Canseco, Jose",Oakland,600,144,33,85,117,American,West,LF,14
+"Carter, Joe",Cleveland,663,200,29,108,121,American,East,RF,6
+"Clark, Jack",St Louis,232,55,9,34,23,National,East,1B,3
+"Cruz, Jose",Houston,479,133,10,48,72,National,West,LF,4
+"Cruz, Julio",Chicago,209,45,0,38,19,American,West,2B,5
+"Davis, Jody",Chicago,528,132,21,61,74,National,East,C,8
+"Dwyer, Jim",Baltimore,160,39,8,18,31,American,East,DO,0
+"Franco, Julio",Cleveland,599,183,10,80,74,American,East,SS,18
+"Gantner, Jim",Milwaukee,497,136,7,58,38,American,East,2B,10
+"Grubb, Johnny",Detroit,210,70,13,32,51,American,East,DH,0
+"Hairston, Jerry",Chicago,225,61,5,32,26,American,West,UT,0
+"Howell, Jack",California,151,41,4,26,21,American,West,3B,2
+"Kruk, John",San Diego,278,86,4,33,38,National,West,LF,2
+"Leonard, Jeffrey",San Francisco,341,95,6,48,42,National,West,LF,5
+"Morrison, Jim",Pittsburgh,537,147,23,58,88,National,East,3B,20
+"Moses, John",Seattle,399,102,3,56,34,American,West,CF,3
+"Mumphrey, Jerry",Chicago,309,94,5,37,32,National,East,OF,3
+"Orsulak, Joe",Pittsburgh,401,100,2,60,19,National,East,RF,4
+"Orta, Jorge",Kansas City,336,93,9,35,46,American,West,DH,0
+"Presley, Jim",Seattle,616,163,27,83,107,American,West,3B,15
+"Quirk, Jamie",Kansas City,219,47,8,24,26,American,West,CS,4
+"Ray, Johnny",Pittsburgh,579,174,7,67,78,National,East,2B,5
+"Reed, Jeff",Minneapolis,165,39,2,13,9,American,West,C,2
+"Rice, Jim",Boston,618,200,20,98,110,American,East,LF,8
+"Royster, Jerry",San Diego,257,66,5,31,26,National,West,UT,14
+"Russell, John",Philadelphia,315,76,13,35,60,National,East,C,13
+"Samuel, Juan",Philadelphia,591,157,16,90,78,National,East,2B,25
+"Shelby, John",Baltimore,404,92,11,54,49,American,East,OF,5
+"Skinner, Joel",Chicago,315,73,5,23,37,American,West,C,3
+"Stone, Jeff",Philadelphia,249,69,6,32,19,National,East,OF,2
+"Sundberg, Jim",Kansas City,429,91,12,41,42,American,West,C,4
+"Traber, Jim",Baltimore,212,54,13,28,44,American,East,UT,5
+"Uribe, Jose",San Francisco,453,101,3,46,43,National,West,SS,16
+"Willard, Jerry",Oakland,161,43,4,17,26,American,West,C,2
+"Youngblood, Joel",San Francisco,184,47,5,20,28,National,West,OF,0
+"Bass, Kevin",Houston,591,184,20,83,79,National,West,RF,5
+"Daniels, Kal",Cincinnati,181,58,6,34,23,National,West,OF,3
+"Gibson, Kirk",Detroit,441,118,28,84,86,American,East,RF,2
+"Griffey, Ken",New York,490,150,21,69,58,American,East,OF,3
+"Hernandez, Keith",New York,551,171,13,94,83,National,East,1B,5
+"Hrbek, Kent",Minneapolis,550,147,29,85,91,American,West,1B,10
+"Landreaux, Ken",Los Angeles,283,74,4,34,29,National,West,OF,7
+"McReynolds, Kevin",San Diego,560,161,26,89,96,National,West,CF,8
+"Mitchell, Kevin",New York,328,91,12,51,43,National,East,OS,8
+"Moreland, Keith",Chicago,586,159,12,72,79,National,East,RF,4
+"Oberkfell, Ken",Atlanta,503,136,5,62,48,National,West,3B,8
+"Phelps, Ken",Seattle,344,85,24,69,64,American,West,DH,0
+"Puckett, Kirby",Minneapolis,680,223,31,119,96,American,West,CF,6
+"Stillwell, Kurt",Cincinnati,279,64,0,31,26,National,West,SS,16
+"Durham, Leon",Chicago,484,127,20,66,65,National,East,1B,7
+"Dykstra, Len",New York,431,127,8,77,45,National,East,CF,3
+"Herndon, Larry",Detroit,283,70,8,33,37,American,East,OF,2
+"Lacy, Lee",Baltimore,491,141,11,77,47,American,East,RF,2
+"Matuszek, Len",Los Angeles,199,52,9,26,28,National,West,O1,5
+"Moseby, Lloyd",Toronto,589,149,21,89,86,American,East,CF,6
+"Parrish, Lance",Detroit,327,84,22,53,62,American,East,C,6
+"Parrish, Larry",Texas,464,128,28,67,94,American,West,DH,0
+"Rivera, Luis",Montreal,166,34,0,20,13,National,East,SS,9
+"Sheets, Larry",Baltimore,338,92,18,42,60,American,East,DH,0
+"Smith, Lonnie",Kansas City,508,146,8,80,44,American,West,LF,9
+"Whitaker, Lou",Detroit,584,157,20,95,73,American,East,2B,11
+"Aldrete, Mike",San Francisco,216,54,2,27,25,National,West,1O,1
+"Barrett, Marty",Boston,625,179,4,94,60,American,East,2B,14
+"Brown, Mike",Pittsburgh,243,53,4,18,26,National,East,OF,3
+"Davis, Mike",Oakland,489,131,19,77,55,American,West,RF,9
+"Diaz, Mike",Pittsburgh,209,56,12,22,36,National,East,O1,3
+"Duncan, Mariano",Los Angeles,407,93,8,47,30,National,West,SS,25
+"Easler, Mike",New York,490,148,14,64,78,American,East,DH,0
+"Fitzgerald, Mike",Montreal,209,59,6,20,37,National,East,C,3
+"Hall, Mel",Cleveland,442,131,18,68,77,American,East,LF,7
+"Hatcher, Mickey",Minneapolis,317,88,3,40,32,American,West,UT,4
+"Heath, Mike",St Louis,288,65,8,30,36,National,East,C,10
+"Kingery, Mike",Kansas City,209,54,3,25,14,American,West,OF,3
+"LaValliere, Mike",St Louis,303,71,3,18,30,National,East,C,6
+"Marshall, Mike",Los Angeles,330,77,19,47,53,National,West,RF,6
+"Pagliarulo, Mike",New York,504,120,28,71,71,American,East,3B,19
+"Salas, Mark",Minneapolis,258,60,8,28,33,American,West,C,8
+"Schmidt, Mike",Philadelphia,552,160,37,97,119,National,East,3B,6
+"Scioscia, Mike",Los Angeles,374,94,5,36,26,National,West,C,15
+"Tettleton, Mickey",Oakland,211,43,10,26,35,American,West,C,8
+"Thompson, Milt",Philadelphia,299,75,6,38,23,National,East,CF,2
+"Webster, Mitch",Montreal,576,167,8,89,49,National,East,CF,8
+"Wilson, Mookie",New York,381,110,9,61,45,National,East,OF,5
+"Wynne, Marvell",San Diego,288,76,7,34,37,National,West,OF,3
+"Young, Mike",Baltimore,369,93,9,43,42,American,East,LF,6
+"Esasky, Nick",Cincinnati,330,76,12,35,41,National,West,1B,5
+"Guillen, Ozzie",Chicago,547,137,2,58,47,American,West,SS,22
+"McDowell, Oddibe",Texas,572,152,18,105,49,American,West,CF,3
+"Moreno, Omar",Atlanta,359,84,4,46,27,National,West,RF,5
+"Smith, Ozzie",St Louis,514,144,0,67,54,National,East,SS,15
+"Virgil, Ozzie",Atlanta,359,80,15,45,48,National,West,C,13
+"Bradley, Phil",Seattle,526,163,12,88,50,American,West,LF,1
+"Garner, Phil",Houston,313,83,9,43,41,National,West,3B,23
+"Incaviglia, Pete",Texas,540,135,30,82,88,American,West,RF,14
+"Molitor, Paul",Milwaukee,437,123,9,62,55,American,East,3B,15
+"O'Brien, Pete",Texas,551,160,23,86,90,American,West,1B,11
+"Rose, Pete",Cincinnati,237,52,0,15,25,National,West,1B,6
+"Sheridan, Pat",Detroit,236,56,6,41,19,American,East,OF,4
+"Tabler, Pat",Cleveland,473,154,6,61,48,American,East,1B,9
+"Belliard, Rafael",Pittsburgh,309,72,0,33,31,National,East,SS,12
+"Burleson, Rick",California,271,77,5,35,29,American,West,UT,3
+"Bush, Randy",Minneapolis,357,96,7,50,45,American,West,LF,4
+"Cerone, Rick",Milwaukee,216,56,4,22,18,American,East,C,4
+"Cey, Ron",Chicago,256,70,13,42,36,National,East,3B,8
+"Deer, Rob",Milwaukee,466,108,33,75,86,American,East,RF,8
+"Dempsey, Rick",Baltimore,327,68,13,42,29,American,East,C,7
+"Gedman, Rich",Boston,462,119,16,49,65,American,East,C,6
+"Hassey, Ron",New York,341,110,9,45,49,American,East,C,4
+"Henderson, Rickey",New York,608,160,28,130,74,American,East,CF,6
+"Jackson, Reggie",California,419,101,18,65,58,American,West,DH,0
+"Jones, Ruppert",California,393,90,17,73,49,American,West,RF,4
+"Kittle, Ron",Chicago,376,82,21,42,60,American,West,DH,0
+"Knight, Ray",New York,486,145,11,51,76,National,East,3B,16
+"Kutcher, Randy",San Francisco,186,44,7,28,16,National,West,OF,1
+"Law, Rudy",Kansas City,307,80,1,42,36,American,West,OF,2
+"Leach, Rick",Toronto,246,76,5,35,39,American,East,DO,1
+"Manning, Rick",Milwaukee,205,52,8,31,27,American,East,OF,2
+"Mulliniks, Rance",Toronto,348,90,11,50,45,American,East,3B,6
+"Oester, Ron",Cincinnati,523,135,8,52,44,National,West,2B,19
+"Quinones, Rey",Boston,312,68,2,32,22,American,East,SS,15
+"Ramirez, Rafael",Atlanta,496,119,8,57,33,National,West,S3,29
+"Reynolds, R.J.",Pittsburgh,402,108,9,63,48,National,East,LF,9
+"Roenicke, Ron",Philadelphia,275,68,5,42,42,National,East,OF,2
+"Sandberg, Ryne",Chicago,627,178,14,68,76,National,East,2B,5
+"Santana, Rafael",New York,394,86,1,38,28,National,East,SS,16
+"Schu, Rick",Philadelphia,208,57,8,32,25,National,East,3B,13
+"Sierra, Ruben",Texas,382,101,16,50,55,American,West,OF,6
+"Smalley, Roy",Minneapolis,459,113,20,59,57,American,West,DH,0
+"Thompson, Robby",San Francisco,549,149,7,73,47,National,West,2B,17
+"Wilfong, Rob",California,288,63,3,25,33,American,West,2B,7
+"Williams, Reggie",Los Angeles,303,84,4,35,32,National,West,CF,3
+"Yount, Robin",Milwaukee,522,163,9,82,46,American,East,CF,1
+"Balboni, Steve",Kansas City,512,117,29,54,88,American,West,1B,18
+"Bradley, Scott",Seattle,220,66,5,20,28,American,West,C,3
+"Bream, Sid",Pittsburgh,522,140,16,73,77,National,East,1B,17
+"Buechele, Steve",Texas,461,112,18,54,54,American,West,3B,11
+"Dunston, Shawon",Chicago,581,145,17,66,68,National,East,SS,32
+"Fletcher, Scott",Texas,530,159,3,82,50,American,West,SS,15
+"Garvey, Steve",San Diego,557,142,21,58,81,National,West,1B,7
+"Jeltz, Steve",Philadelphia,439,96,0,44,36,National,East,SS,22
+"Lombardozzi, Steve",Minneapolis,453,103,8,53,33,American,West,2B,6
+"Owen, Spike",Seattle,528,122,1,67,45,American,West,SS,17
+"Sax, Steve",Los Angeles,633,210,6,91,56,National,West,2B,16
+"Armas, Tony",Boston,425,112,11,40,58,American,East,CF,8
+"Bernazard, Tony",Cleveland,562,169,17,88,73,American,East,2B,17
+"Brookens, Tom",Detroit,281,76,3,42,25,American,East,UT,7
+"Brunansky, Tom",Minneapolis,593,152,23,69,75,American,West,RF,6
+"Fernandez, Tony",Toronto,687,213,10,91,65,American,East,SS,13
+"Flannery, Tim",San Diego,368,103,3,48,28,National,West,2B,3
+"Foley, Tom",Montreal,263,70,1,26,23,National,East,UT,4
+"Gwynn, Tony",San Diego,642,211,14,107,59,National,West,RF,4
+"Harper, Terry",Atlanta,265,68,8,26,30,National,West,OF,3
+"Harrah, Toby",Texas,289,63,7,36,41,American,West,2B,7
+"Herr, Tommy",St Louis,559,141,2,48,61,National,East,2B,9
+"Hulett, Tim",Chicago,520,120,17,53,44,American,West,3B,11
+"Kennedy, Terry",San Diego,432,114,12,46,57,National,West,C,8
+"Landrum, Tito",St Louis,205,43,2,24,17,National,East,OF,1
+"Laudner, Tim",Minneapolis,193,47,10,21,29,American,West,C,5
+"O'Malley, Tom",Baltimore,181,46,1,19,18,American,East,3B,9
+"Paciorek, Tom",Texas,213,61,4,17,22,American,West,UT,4
+"Pena, Tony",Pittsburgh,510,147,10,56,52,National,East,C,18
+"Pendleton, Terry",St Louis,578,138,1,56,59,National,East,3B,20
+"Perez, Tony",Cincinnati,200,51,2,14,29,National,West,1B,7
+"Phillips, Tony",Oakland,441,113,5,76,52,American,West,2B,11
+"Puhl, Terry",Houston,172,42,3,17,14,National,West,OF,0
+"Raines, Tim",Montreal,580,194,9,91,62,National,East,LF,6
+"Simmons, Ted",Atlanta,127,32,4,14,25,National,West,UT,6
+"Teufel, Tim",New York,279,69,4,35,31,National,East,2B,9
+"Wallach, Tim",Montreal,480,112,18,50,71,National,East,3B,16
+"Coleman, Vince",St Louis,600,139,0,94,29,National,East,LF,9
+"Hayes, Von",Philadelphia,610,186,19,107,98,National,East,1B,13
+"Law, Vance",Montreal,360,81,5,37,44,National,East,2B,3
+"Backman, Wally",New York,387,124,1,67,27,National,East,2B,17
+"Boggs, Wade",Boston,580,207,8,107,71,American,East,3B,19
+"Clark, Will",San Francisco,408,117,11,66,41,National,West,1B,11
+"Joyner, Wally",California,593,172,22,82,100,American,West,1B,15
+"Krenchicki, Wayne",Montreal,221,53,2,21,23,National,East,13,6
+"McGee, Willie",St Louis,497,127,7,65,48,National,East,CF,3
+"Randolph, Willie",New York,492,136,5,76,50,American,East,2B,20
+"Tolleson, Wayne",Chicago,475,126,3,61,43,American,West,3B,7
+"Upshaw, Willie",Toronto,573,144,9,85,60,American,East,1B,12
+"Wilson, Willie",Kansas City,631,170,9,77,44,American,West,CF,3
