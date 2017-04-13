@@ -3,9 +3,10 @@
 This project contains the learning materials for the free SAS programming course,
 _SAS Programming for R Users_.  
 
-SAS Training offers instructor-led sessions of this course in the
+SAS Training offers a free e-Learning version of this course, which includes lecture, demos, and exercises.
+There are also occasionally instructor-led sessions of this course in the
 "Live Web" format for no charge; see 
-[the SAS training web site for the schedule](https://support.sas.com/edu/schedules.html?id=3033).
+[the SAS training web site for the schedule and the Self-paced e-Learning link](https://support.sas.com/edu/schedules.html?id=3033).
 
 ## Materials included
 The course materials supplied here contain everything you need for self-paced
