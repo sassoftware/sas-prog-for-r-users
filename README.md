@@ -17,8 +17,8 @@ include:
 - Over 80 SAS programs for course exercises 
 
 ## About the course
-This course is designed for experienced R users who want to transfer their 
-programming skills to SAS. 
+This course is for experienced R users who want to apply their existing skills 
+and extend them to the SAS environment. 
 Emphasis will be placed on programming and not statistical theory or interpretation. 
 Students of this course should have knowledge of plotting, manipulating data, 
 iterative processing, creating functions, applying functions, linear models, 
