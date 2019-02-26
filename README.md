@@ -72,5 +72,3 @@ Chapters 1 through 7 without the R integration.
 
 # Licensing 
 You can obtain a copy of the license at [LICENSE.txt](https://github.com/sassoftware/sas-prog-for-r-users/blob/master/LICENSE)
-
-Copyright SAS Institute.
