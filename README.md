@@ -18,7 +18,7 @@ include:
 This course is for experienced R users who want to apply their existing skills and extend them to the SAS environment. 
 Emphasis will be placed on programming and not statistical theory or interpretation. Students of this course should have knowledge of plotting, manipulating data, iterative processing, creating functions, applying functions, linear models, generalized linear models, mixed models, stepwise model selection, matrix algebra, and statistical simulations.
 
-Learn how to
+Learn how to:
 - read and write SAS programs
 - import various forms of data
 - subset and merge data tables
