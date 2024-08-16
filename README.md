@@ -1,5 +1,4 @@
 # SAS Programming for R Users (Course Materials)
-***
 This project contains the learning materials for the free SAS programming course, _SAS Programming for R Users_.  
 
 SAS Training offers a free e-Learning version of this course, which includes lecture, demos, and exercises.
@@ -10,6 +9,7 @@ There are also occasionally instructor-led sessions of this course in the "Live 
 The course materials supplied here contain everything you need for self-paced
 learning or (for experts) to teach the course to other students.  Materials
 include:
+
 - [PDF version of the course notes](notes/LWSP4R_001.pdf) (over 600 pages)
 - Sample data files in CSV, XLSX, text, and SAS code formats
 - Over 80 SAS programs for course exercises 
@@ -19,6 +19,7 @@ This course is for experienced R users who want to apply their existing skills a
 Emphasis will be placed on programming and not statistical theory or interpretation. Students of this course should have knowledge of plotting, manipulating data, iterative processing, creating functions, applying functions, linear models, generalized linear models, mixed models, stepwise model selection, matrix algebra, and statistical simulations.
 
 Learn how to:
+
 - read and write SAS programs
 - import various forms of data
 - subset and merge data tables
@@ -51,6 +52,7 @@ as a "home base" for the code and data.
 
 ### SAS Products
 The following SAS products are used for the bulk of the course:
+
 - Base SAS
 - SAS/STAT
 - SAS/IML
